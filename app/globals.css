@@ -4,8 +4,11 @@
 
 /* css beings  */
 
-
-
+/* nav  */
+label input:checked ~.links{
+    display: block;
+    
+}
 
 
 
