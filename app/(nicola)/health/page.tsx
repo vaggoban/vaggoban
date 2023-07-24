@@ -7,8 +7,8 @@ export default function page() {
     <div className="text capitalize text-4xl font-bold  sm:text-center
       sm:w-1/2 sm:mx-auto sm:py-32 py-24">
       <div className='text-lg uppercase pb-3'>welcome to heisenberg</div>
-      <div>isn't it time to care about</div>
-      <div className='pb-3'>your own helth?</div>
+      <p>isn't it time to care about</p>
+      <p className='pb-3'>your own helth?</p>
       <div className='text-sm'>do not forget your future your lifetime depends on your health condition. if you want to live a long life then lets focus now.</div>
 
     </div>
