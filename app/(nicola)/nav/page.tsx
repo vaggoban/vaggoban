@@ -7,8 +7,8 @@ export default function page() {
   return (
     <div>
        <div className="navigation flex justify-between items-center
-      overflow-x-hidden overflow-y-hidden">
-        <div className="logo  text-4xl font-bold tracking-wider capitalize
+      overflow-x-hidden overflow-y-hidden bg-slate-200 py-1">
+        <div className="logo  text-4xl font-bold tracking-wider capitalize pl-2
         flex sm:ml-12">
           <p className='text-cyan-400'>heisenberg</p>
           <figure className='pt-2 my-auto '>
@@ -23,16 +23,16 @@ export default function page() {
           </div>
           <input type="checkbox" className='hidden '/>
           <div className="links flex gap-4 hidden  absolute border
-          inset-0 top-16 w-2/3 mx-auto z-50
+          inset-0 top-16 w-2/3 mx-auto z-50 
           sm:flex sm:static sm:h-12 sm:float-right sm:text-center sm:border-none">
            <Link href="./health" className='my-auto'>
-            <p className='text-xl font-bold tracking-wider border py-1 text-cyan-500 hover:text-cyan-700 px-3 text-center '>Health</p>
+            <p className='text-xl font-bold tracking-wider border border-cyan-600 py-1 text-cyan-500 hover:text-cyan-700 px-3 text-center '>Health</p>
            </Link>
            <Link href="./care" className='my-auto'>
-            <p className='text-xl font-bold tracking-wider border py-1 text-cyan-500 hover:text-cyan-700 px-3 text-center'>Care</p>
+            <p className='text-xl font-bold tracking-wider border py-1 text-cyan-500 hover:text-cyan-700 px-3 text-center border border-cyan-600 '>Care</p>
            </Link>
            <Link href="./support" className='my-auto'>
-            <p className='text-xl font-bold tracking-wider border py-1 text-cyan-500 hover:text-cyan-700 px-3 text-center'>Support</p>
+            <p className='text-xl font-bold tracking-wider border py-1 text-cyan-500 hover:text-cyan-700 px-3 text-center border border-cyan-600 '>Support</p>
            </Link>
            {/* author  */}
 
