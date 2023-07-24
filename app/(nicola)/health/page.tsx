@@ -9,7 +9,9 @@ export default function page() {
       <div className="p2">your own health</div>
       <div className="p3">do not forget your future your lifetime depends on your health condition. if you want to live a long life then lets focus now</div>
     </div>
-    <div className="links">2</div>
+    <div className="links">
+      <Link href="./care">why us</Link>
+    </div>
    </div>
   )
 }
