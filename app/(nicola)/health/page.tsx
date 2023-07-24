@@ -10,8 +10,8 @@ export default function page() {
       <div className="p3">do not forget your future your lifetime depends on your health condition. if you want to live a long life then lets focus now</div>
     </div>
     <div className="links">
-      <Link href="./care">why us</Link>
-      <Link href="./support">learn more</Link>
+      <Link href="./care"><div className="l1">why us</div></Link>
+      <Link href="./support"><div className="l2">learn more</div></Link>
     </div>
    </div>
   )
