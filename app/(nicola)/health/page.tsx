@@ -11,10 +11,6 @@ export default function page() {
       <div className='pb-3'>your own helth?</div>
       <div className='text-sm'>do not forget your future your lifetime depends on your health condition. if you want to live a long life then lets focus now.</div>
 
-      <div className="button grid grid-cols-2  sm:justify-items-center">
-      <Link href="./care"><div className='text-lg border border-cyan-600 py-1 px-1 text-center bg-slate-200 font-medium bg-transparent w-32 mt-2  border-2  rounded '>Learn More</div></Link>
-
-      </div>
     </div>
    </div>
   )
