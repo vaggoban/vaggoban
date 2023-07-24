@@ -11,6 +11,7 @@ export default function page() {
     </div>
     <div className="links">
       <Link href="./care">why us</Link>
+      <Link href="./support">learn more</Link>
     </div>
    </div>
   )
