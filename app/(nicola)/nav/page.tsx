@@ -23,7 +23,7 @@ export default function page() {
           </div>
           <input type="checkbox" className='hidden '/>
           <div className="links flex gap-4 hidden  absolute border
-          inset-0 top-16 w-2/3 mx-auto z-50 
+          inset-0 top-16 w-2/3 mx-auto z-50 bg-slate-200
           sm:flex sm:static sm:h-12 sm:float-right sm:text-center sm:border-none">
            <Link href="./health" className='my-auto'>
             <p className='text-xl font-bold tracking-wider border border-cyan-600 py-1 text-cyan-500 hover:text-cyan-700 px-3 text-center '>Health</p>

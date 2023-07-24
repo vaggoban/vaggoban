@@ -9,7 +9,7 @@ export default function page() {
       <div className="p1">isnt it time to care about</div>
       <div className="p2 pb-3">your own health?</div>
       <div className="p3 text-sm">do not forget your future your lifetime depends on your health condition. if you want to live a long life then lets focus now</div>
-      <div className="links grid grid-cols-2  sm:justify-items-center">
+      <div className="link grid grid-cols-2  sm:justify-items-center">
       <Link href="./care"><div className="l1 text-lg border border-cyan-600 py-1 px-1 text-center bg-slate-200 font-medium bg-transparent w-32 mt-2  border-2  rounded">why us</div></Link>
       <Link href="./support"><div className="l2 text-lg border border-cyan-600 py-1 px-1 text-center bg-slate-200 font-medium bg-transparent w-32 mt-2  border-2  rounded">learn more</div></Link>
     </div>
