@@ -11,6 +11,7 @@ label input:checked ~.links{
 }
 
 /* health  */
+/* 
 .health{
     background:linear-gradient(to left, rgba(204, 154, 180, 0.8),rgba(90, 154, 180, 0.8)), url("./\(nicola\)/img/i.jpg");
     background-size: cover;
@@ -18,7 +19,7 @@ label input:checked ~.links{
 }
 
 
-
+ */
 
 
 

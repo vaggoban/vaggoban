@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'next/link'
 export default function page() {
   return (
-    <div>
+  
        <div className="health py-2 px-3">
         <div className="text capitalize text-4xl font-bold  sm:text-center
         sm:w-1/2 sm:mx-auto sm:py-32 py-24">
@@ -16,6 +16,6 @@ export default function page() {
           </div>
         </div>
        </div>
-    </div>
+
   )
 }
