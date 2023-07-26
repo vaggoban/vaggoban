@@ -22,8 +22,10 @@ export default function page() {
           </figure>
           </div>
           <input type="checkbox" className='hidden '/>
+          {/* links */}
           <div className="links flex gap-4 hidden  absolute border
           inset-0 top-16 w-2/3 mx-auto z-50 bg-slate-200
+          h-64
           sm:flex sm:static sm:h-12 sm:float-right sm:text-center sm:border-none">
            <Link href="./health" className='my-auto'>
             <p className='text-xl font-bold tracking-wider border border-cyan-600 py-1 text-cyan-500 hover:text-cyan-700 px-3 text-center '>Health</p>
@@ -36,7 +38,7 @@ export default function page() {
            </Link>
            {/* author  */}
 
-           <div className="author pt-64 sm:invisible">
+           <div className="author pt-20 sm:invisible">
             <div className='capitalize'>this web page is coded by...
              <div className="text-cyan-400 uppercase font-bold">
               <p>nicola goodman</p>
