@@ -18,8 +18,12 @@ label input:checked ~.links{
     background-size: cover;
     background-position: center;
 }
-
-
+/* care  */
+.care{
+    background:linear-gradient(to left, rgba(204, 154, 180, 0.8),rgba(90, 154, 180, 0.8)), url("./\(nicola\)/img/i4.jpg");
+    background-size: cover;
+    background-position: center;   
+}
 
 
 
