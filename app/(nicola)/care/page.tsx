@@ -17,7 +17,7 @@ export default function page() {
            we provide the best service to our clints. our all doctors are highly educated from japan and south korea. we belive if our client gets one more days in life its our pleasure.
           </div>
           <div className="sm:w-1/2 mx-auto">
-          <Link href="./support"><div className="l2 text-lg border border-cyan-600 py-1 px-1 text-center bg-slate-200 font-medium bg-transparent w-32 mt-2  border-2  rounded">explore more</div></Link>
+          <Link href="./support"><div className="l2 text-lg border border-cyan-600 py-1 px-1 text-center bg-slate-200 font-medium bg-transparent w-32 mt-2  border-2  capitalize rounded">explore more</div></Link>
           </div>
         </div>
     </div>
