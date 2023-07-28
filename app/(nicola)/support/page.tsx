@@ -13,7 +13,7 @@ export default function page() {
               <Image alt='ok' src={salim} className='w-full h-full'></Image>
             </figure>
 
-           <div className="text">
+           <div className="o0">
            <div className="line1 font-bold tracking-wider text-2xl py-3">salim bocktiar
             </div>
             
