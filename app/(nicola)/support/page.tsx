@@ -8,7 +8,14 @@ export default function page() {
         <div className="support grid sm:grid-cols-2 justify-center mx-auto py-4
         sm:w-3/4  sm:gap-4 capitalize">
 
+        <div className="sector1 border-2 text-center">
+            <figure className='w-64 border-4 mx-auto mt-5'>
+              <Image alt='ok' src={salim} className='w-full h-full'></Image>
+            </figure>
 
+
+
+        </div>
 {/* 
           <div className="sector2 border-2 text-center">
             <figure className='w-64 border-4 mx-auto mt-5'>
