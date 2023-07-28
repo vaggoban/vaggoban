@@ -16,7 +16,7 @@ export default function page() {
 
            <div className="line1 font-bold tracking-wider text-2xl py-3">salim bocktiar
             </div>
-            <div className="fuck">
+            <div className="fuck line2 font-bold  text-sm">
               fuck you
             </div>
 
