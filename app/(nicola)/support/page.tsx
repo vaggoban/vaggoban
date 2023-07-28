@@ -13,12 +13,13 @@ export default function page() {
               <Image alt='ok' src={salim} className='w-full h-full'></Image>
             </figure>
 
-           <div className="o0">
+
            <div className="line1 font-bold tracking-wider text-2xl py-3">salim bocktiar
             </div>
-            
-            <div className="line2 font-bold  text-sm">hi im salim the ceo of bocktiar comapny. my docktor once said i wont last more than 5 months but it's been 5 years now. and see im still alive. the credit goes to HEISENBERG </div>
-           </div>
+            <div className="fuck">
+              fuck you
+            </div>
+
 
         </div>
 {/* 
