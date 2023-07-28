@@ -24,7 +24,7 @@ export default function page() {
             </figure>
             <div className="line1 text-2xl py-3 font-bold tracking-wider">sopnil tasnim</div>
             <div className="line2 text-sm font-bold">
-              it's sopnil im the manager of tasnim company. 
+              i am  sopnil im the manager of tasnim. 
             </div>
           </div> 
 
