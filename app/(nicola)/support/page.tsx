@@ -17,8 +17,7 @@ export default function page() {
            <div className="line1 font-bold tracking-wider text-2xl py-3">salim bocktiar
             </div>
             <div className="line2 font-bold  text-sm">
-             hey bitch i fuck you asshole. we need a clean pleace . first of all , everything here will be clean . and then only then we cook .
-             meth cook is not a game bro its an art and only we are the artist . you better keep that in mind
+            hi im salim the ceo of bocktiar comapny. my docktor once said i wont last more than 5 months but it's been 5 years now. and see im still alive. the credit goes to HEISENBERG
             </div>
 
 
