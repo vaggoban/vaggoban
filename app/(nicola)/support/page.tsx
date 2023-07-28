@@ -17,7 +17,7 @@ export default function page() {
            <div className="line1 font-bold tracking-wider text-2xl py-3">salim bocktiar
             </div>
             <div className="line2 font-bold  text-sm">
-            it's sopnil the president of tasnim government. my wife and kid would have been dead without the HEISENBERG. all credit goes to the heisenberg and their docktors. they doesn's do business with paitent
+              okay got that yo 
             </div>
 
 
