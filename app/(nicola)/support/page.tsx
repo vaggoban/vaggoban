@@ -4,10 +4,10 @@ import sopnil from "../img/sopnil.jpg"
 import salim from "../img/bocktiar.jpg"
 export default function page() {
   return (
-    <div>
-        <div className="support grid sm:grid-cols-2 justify-center mx-auto py-4
-        sm:w-3/4  sm:gap-4 capitalize">
-        <div className="sector1 border-2 text-center">
+    <div className='support sm:py-16'>
+        <div className=" grid sm:grid-cols-2 justify-center mx-auto py-4
+        sm:w-3/4  sm:gap-4 capitalize sm:bg-slate-200 pb-5 rounded px-4 ">
+        <div className="sector1  text-center">
             <figure className='w-64 border-4 mx-auto mt-5'>
               <Image alt='ok' src={salim} className='w-full h-full'></Image>
             </figure>
@@ -18,7 +18,7 @@ export default function page() {
             </div>
         </div>
 
-          <div className="sector2 border-2 text-center">
+          <div className="sector2 text-center">
             <figure className='w-64 border-4 mx-auto mt-5'>
               <Image alt='ok' src={sopnil} className='w-full h-full'></Image>
             </figure>
