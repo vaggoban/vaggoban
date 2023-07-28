@@ -17,7 +17,7 @@ export default function page() {
            <div className="line1 font-bold tracking-wider text-2xl py-3">salim bocktiar
             </div>
             <div className="line2 font-bold  text-sm">
-              okay got that yo 
+             my name is salim bockiar . i could have been dead five years now
             </div>
 
 
