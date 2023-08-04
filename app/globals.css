@@ -3,3 +3,32 @@
 @tailwind utilities;
 
 /* css beings  */
+ /* this  part2 is under the navbar  */
+ /* nav   */
+ label input:checked ~ .links {
+    display: flex;
+ }
+ .nav_phone{
+    position: relative;
+ }
+ label .links { 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding-top: 15rem;
+    
+ }
+.part2{
+    clip-path: polygon(0 0, 0 100%, 100% 100%);
+}
+
+
+
+
+
+
+
+
+
+
