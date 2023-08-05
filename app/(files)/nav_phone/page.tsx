@@ -18,24 +18,24 @@ export default function page() {
         </div>
          
          <label >
-         <div className="list h-10 w-10 border">
+         <div className="list h-10 w-10 border bg-teal-300  rounded p-1">
           <Image alt='img' src={list} className='h-full w-full '></Image>
         </div>
         <input type="checkbox" className='hidden' />
-        <div className="links hidden border border-rose-600 w-64  ">
-          <div className="buttons border-2 h-80 mt-32 pt-24 px-20 mx-auto flex flex-col gap-4">
+        <div className="links hidden  w-64  ">
+          <div className="buttons border-2 h-80 mt-32 pt-24 px-20 mx-auto flex flex-col gap-4 uppercase text-white font-bold tracking-wider">
           <Link href="./impact" className='mx-auto'>
-          <div className="border-2 border-sky-400 py-1 px-3 rounded capitalize ">
+          <div className="border-2 border-teal-400 py-1 px-3 rounded  ">
           impact
           </div>
           </Link>
           <Link href="./impact" className='mx-auto'>
-          <div className="border-2 border-sky-400 py-1 px-3 rounded capitalize ">
+          <div className="border-2 border-teal-400 py-1 px-3 rounded  ">
           impact
           </div>
           </Link>
           <Link href="./impact" className='mx-auto'>
-          <div className="border-2 border-sky-400 py-1 px-3 rounded capitalize ">
+          <div className="border-2 border-teal-400 py-1 px-3 rounded  ">
           impact
           </div>
           </Link>

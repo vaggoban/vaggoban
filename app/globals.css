@@ -19,6 +19,17 @@
     padding-top: 15rem;
     
  }
+ /* bg color  */
+
+.buttons{
+   background: linear-gradient(to left,rgba(136, 114, 162, 0.08),
+   rgba(92, 154, 111, 0.77))
+   ,url("./\(files\)/img/viper.jpg");
+   background-position: center;
+   background-size: 100% 100%;
+}
+
+
 .part2{
     clip-path: polygon(0 0, 0 100%, 100% 100%);
 }
