@@ -5,9 +5,9 @@ import list from "../img/list-text.png"
 import Link from 'next/link'
 export default function page() {
   return (
-    <div className='sm:hidden'>
+    <div className='sm:hidden bg-slate-500 py-1'>
        <div className="nav_phone flex justify-between items-center px-5">
-        <div className="logo flex border-2 rounded-lg">
+        <div className="logo flex  rounded-lg">
           <div className="doubletask relative">
           <div className="name uppercase text-4xl tracking-wider font-bold  bg-slate-600 text-teal-300">venom</div>
           <div className="name uppercase text-4xl tracking-wider font-bold  bg-sky-700 text-teal-300 absolute top-0 left-0 part2">venom</div>
@@ -18,7 +18,7 @@ export default function page() {
         </div>
          
          <label >
-         <div className="list h-10 w-10 border bg-teal-300  rounded p-1">
+         <div className="list h-10 w-10 bg-teal-300  rounded p-1">
           <Image alt='img' src={list} className='h-full w-full '></Image>
         </div>
         <input type="checkbox" className='hidden' />
