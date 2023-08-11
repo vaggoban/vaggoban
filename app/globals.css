@@ -35,6 +35,48 @@
 }
 
 
+/* impact  */
+
+@media screen and (min-width:600px) {
+
+.the-color{
+   height: 90vh;
+}
+
+.one{
+   position: relative;
+}
+.one .thesnake {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

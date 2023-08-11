@@ -18,7 +18,7 @@ export default function page() {
           </figure>
         </div>
          
-         <div className="mybtn uppercase flex flex-row gap-4">
+         <div className="mybtn uppercase flex flex-row gap-4 font-bold tracking-wider text-white">
          <Link href="./impact" className='mx-auto'>
           <div className="border-2 border-teal-400 py-1 px-3 rounded  ">
           impact
