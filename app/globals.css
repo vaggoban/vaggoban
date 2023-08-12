@@ -54,13 +54,27 @@
 }
 
 
-
-
-
-
 }
+/* 
+.two{
+   background: linear-gradient(to left,
+  rgba(80, 98, 158, 0.4),rgba(27, 63, 183, 0.4))
+   ,url("./\(files\)/img/red.jpg");
+   background-position: center;
+   background-size: 100% 100%;
+   
+ 
+} */
 
 
+@media screen and (max-width:600px) {
+.layer1{
+    width: 16rem;
+   padding-top: 2rem;
+   }
+   
+   
+}
 
 
 
