@@ -20,9 +20,7 @@ export default function page() {
          </div>
         </div>
         <div className="two bg-slate-400 sm:w-3/5">
-        <figure className='h-80 w-80 mx-auto'>
-        <Image alt="viper antivenom" src={av} className='h-full w-full rounded-lg'></Image>  
-        </figure>  
+           khali 
         <div className="text  w-80 mx-auto">
         Presentation:
         </div>
