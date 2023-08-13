@@ -30,9 +30,12 @@ export default function page() {
 
         <div className="two bg-slate-400 sm:w-3/5">
            <div className="antivenom">
-            <figure className='w-4/5 border-4 mx-auto' >
-              <Image src={av} alt='ok' className='h-full w-full'></Image>
+            <figure className='w-4/5  mx-auto pt-5' >
+              <Image src={av} alt='ok' className='h-full w-full border-4'></Image>
             </figure> 
+           </div>
+           <div className="text">
+            <div className="lone1 text-2xl w-4/5 mx-auto text-white capitalize font-bold">the red viper :</div>
            </div>
         </div>  
 
