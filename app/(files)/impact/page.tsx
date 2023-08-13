@@ -36,7 +36,7 @@ export default function page() {
            </div>
            <div className="text">
             <div className="lone1 text-2xl w-4/5 mx-auto text-white capitalize font-bold">the red viper :</div>
-            <div className="line2 w-4/5 mx-auto text-white capitalize "> Viperidae are a family of snakes found in most parts of the world, except for Antarctica, Australia, Hawaii, Madagascar, New Zealand, and various other isolated islands. They are venomous and have long, hinged fangs that permit deep penetration and injection of their venom.</div>
+            <div className="line2 w-4/5 mx-auto text-white capitalize pb-5"> Viperidae are a family of snakes found in most parts of the world, except for Antarctica, Australia, Hawaii, Madagascar, New Zealand, and various other isolated islands. They are venomous and have long, hinged fangs that permit deep penetration and injection of their venom.</div>
            </div>
         </div>  
 
