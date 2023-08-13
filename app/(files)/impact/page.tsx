@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import viper from "../img/yo (4).jpg"
-
+import av from "../img/av.jpg"
 export default function page() {
   return (
     <div>
@@ -21,7 +21,11 @@ export default function page() {
         </div>
 
         <div className="two bg-slate-400 sm:w-3/5">
-           asshole
+           <div className="antivenom">
+            <figure>
+              <Image src={av} alt='ok'></Image>
+            </figure> 
+           </div>
         </div>  
 
       </div>
