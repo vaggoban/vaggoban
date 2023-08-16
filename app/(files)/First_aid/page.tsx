@@ -1,9 +1,9 @@
 import React from 'react'
 import Link from 'next/link'
-export default function page() {
+export default function page() { 
   return (
     <div>
-        <div className="top sm:px-48 py-12">
+        <div className="top sm:px-48 py-12 bg-stone-300">
             <div className="header capitalize font-bold tracking-wider text-4xl
             text-center sm:text-start ">appointments at venom clinic</div>
             <div className="text capitalize text-center sm:text-start py-2">venom clinic offers appointments at london, united kingdom and kualalampur, malaysia and the venom clinic health locations  </div>

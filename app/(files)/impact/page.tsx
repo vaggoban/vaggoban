@@ -9,10 +9,10 @@ export default function page() {
     <div>
       <div className="impact sm:flex">
         <div className="one  sm:w-2/5 bg-slate-400">
-           <div className="the-color w-48 h-full bg-teal-400 mx-auto"></div>
+           <div className="the-color w-48 h-full bg-stone-300 mx-auto"></div>
          <div className="thesnake ">
          <div className="layer1 bg-slate-400 rounded-full mx-auto sm:p-2 ">
-            <div className="layer2 bg-teal-400 rounded-full sm:p-2 ">
+            <div className="layer2 bg-stone-300 rounded-full sm:p-2 ">
             <div className="img h-64 w-64 rounded-full">
                <Image src={viper} alt='viper' className='h-full w-full rounded-full'></Image>
             </div>
