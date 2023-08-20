@@ -29,12 +29,12 @@ export default function page() {
           impact
           </div>
           </Link>
-          <Link href="./impact" className='mx-auto'>
+          <Link href="./First_aid" className='mx-auto'>
           <div className="border-2 border-teal-400 py-1 px-2 rounded  ">
           <p className='flex flex-row gap-1'><span>first</span> <span>aid</span></p>
           </div>
           </Link>
-          <Link href="./impact" className='mx-auto'>
+          <Link href="./support" className='mx-auto'>
           <div className="border-2 border-teal-400 py-1 px-2.5 rounded  ">
           support
           </div>
