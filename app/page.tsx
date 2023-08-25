@@ -1,12 +1,13 @@
 import React from 'react'
-import Get from "./(nicola)/getwork"
-
-
-
-export default function page() {
+import Nav from "./(nicola)/nav"
+import Thelogo from './(nicola)/thelogo'
+const page = () => {
   return (
-    <>
-     <Get/>
-    </>
+    <div>
+      <Thelogo/>
+      <Nav/>
+    </div>
   )
 }
+
+export default page
