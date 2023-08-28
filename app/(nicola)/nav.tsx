@@ -38,7 +38,7 @@ export default function nav() {
         </div>
 
         </label>
-        <div className="the_image">
+        <div className="the_image pb-3">
           <figure className='w-11'>
             <Image src={no_smoking} alt='no smoking' ></Image>
           </figure>
