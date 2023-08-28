@@ -39,11 +39,11 @@ padding:7rem 0 ;
     margin-top: 4%;
  }
 }
-@media screen and (max-width:635px) {
+/* @media screen and (max-width:635px) {
     .the_buttons{
-        border: 3px solid yellow;
+      background: rgb(61, 57, 57);
     }
-}
+} */
 
 
 

@@ -15,7 +15,7 @@ export default function nav() {
           </div>
           
         <div className="the_buttons hidden text-center  mx-auto flex gap-4
-        sm:flex sm:flex-row ">
+        sm:flex sm:flex-row bg-gray-200">
           <Link href="./Home">
             <div className="home capitalize bg-sky-400 w-20 py-2 rounded mx-auto">home</div>
           </Link>
