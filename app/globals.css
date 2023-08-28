@@ -18,7 +18,7 @@ flex-direction: column;
 }
 .navbar .the_buttons{
 position: absolute;
-top: 700%;
+top: 550%;
 left: 50%;
 transform: translate(-50%,-50%);
 width: 100%;
