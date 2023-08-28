@@ -30,22 +30,20 @@ padding:7rem 0 ;
 @media screen and (min-width:635px) {
     .the_buttons{
         padding: 0 !important;
-        position: fixed !important;
-        top: 19% !important;
+        position: absolute !important;
+        top: 59% !important;
         left: 28% !important;
         width: fit-content !important;
+    
     } 
 .the_image{
     margin-top: 4%;
  }
 }
-/* @media screen and (max-width:635px) {
-    .the_buttons{
-      background: rgb(61, 57, 57);
-    }
-} */
 
-
+.color  {
+    color: rgb(26, 170, 170);
+}
 
 
 
