@@ -7,7 +7,7 @@ const page = () => {
   return (
     <div>
         <div className="home_section bg-gray-200">
-          <div className="text text-4xl uppercase tracking-wider sm:w-3/4  mx-auto color  py-2 text-center sm:text-start">smoke up</div>
+          <div className="text text-4xl uppercase tracking-wider sm:w-3/4  mx-auto color  py-2 text-center sm:text-start sm:pl-8">smoke up</div>
           <figure className='sm:w-3/4 px-8 mx-auto'>
             <Image alt='smoke' src={smoke} className='w-full rounded' ></Image>
           </figure>
