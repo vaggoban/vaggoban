@@ -6,8 +6,8 @@ import smoke from "../img/l (1).jpg"
 const page = () => {
   return (
     <div>
-        <div className="home">
-          <div className="text text-4xl uppercase tracking-wider sm:w-3/4  mx-auto color pl-8 py-2">home</div>
+        <div className="home_section bg-gray-200">
+          <div className="text text-4xl uppercase tracking-wider sm:w-3/4  mx-auto color pl-8 py-2 text-center sm:text-start">smoke up</div>
           <figure className='sm:w-3/4 px-8 mx-auto'>
             <Image alt='smoke' src={smoke} className='w-full rounded' ></Image>
           </figure>

@@ -6,7 +6,8 @@ import list from "./img/list-text.png"
 
 export default function nav() {
   return (
-    <div className='bg-gray-200'>
+    <div className='bg-gray-200 '>
+      
       <div className="navbar flex justify-between px-5">
         <label >
         <input type="checkbox" name="" id="" className='hidden'/>
