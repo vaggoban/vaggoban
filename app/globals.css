@@ -62,9 +62,6 @@ padding:7rem 0 ;
 /* shop     */
 .img_cigarette{
     animation: slider 12s linear infinite;
-    background: url("./\(nicola\)/img/b3.jpg");
-    background-position: center;
-    background-size: cover;
 
 }
 
