@@ -60,7 +60,31 @@ padding:7rem 0 ;
  /* completed with tailwind */
 
 /* shop     */
+.img_cigarette{
+    animation: slider 12s linear infinite;
+    background: url("./\(nicola\)/img/b3.jpg");
+    background-position: center;
+    background-size: cover;
 
+}
+
+@keyframes slider{
+  0%{
+   background: url("./\(nicola\)/img/B1.jpg");
+   background-position: center;
+   background-size: cover;
+  }
+  50%{
+    background: url("./\(nicola\)/img/b2.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  75%{
+    background: url("./\(nicola\)/img/b3.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+}
 
 
 
