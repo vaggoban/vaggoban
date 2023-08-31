@@ -63,9 +63,6 @@ padding:7rem 0 ;
 
 
 .img_cigarette{
-    background: url("./\(nicola\)/img/B1.jpg");
-    background-position: center;
-    background-size: cover;
     animation: 9s travel infinite linear;
 }
 @keyframes travel {
