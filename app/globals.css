@@ -60,7 +60,15 @@ padding:7rem 0 ;
  /* completed with tailwind */
 
 /* shop     */
-
+.img{
+    background: url("./\(nicola\)/img/B1.jpg");
+    background-size: cover;
+    background-position: center;
+    border: 1px solid red;
+    height: 27rem;
+    width: 23rem;
+ 
+}
 
 
 

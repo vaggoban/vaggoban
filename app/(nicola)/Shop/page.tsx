@@ -1,6 +1,6 @@
 import React from 'react'
-import Image from 'next/image'
-import kalada from "../img/B1.jpg"
+
+
 
 
 export default function page() {
@@ -8,7 +8,7 @@ export default function page() {
     <div>
       <div className="the_shop sm:flex sm:items-center">
         <div className="left ">
-          <Image alt='whatever' src={kalada} className=''></Image>
+          <div className="img "></div>
         </div>
         <div className="right">right</div>
       </div>
