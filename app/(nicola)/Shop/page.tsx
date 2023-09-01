@@ -7,8 +7,8 @@ export default function page() {
   return (
     <div>
       <div className="the_shop sm:flex sm:items-center">
-        <div className="left w-80 h-96">
-          <Image alt='whatever' src={kalada} className='h-full w-full'></Image>
+        <div className="left ">
+          <Image alt='whatever' src={kalada} className=''></Image>
         </div>
         <div className="right">right</div>
       </div>
