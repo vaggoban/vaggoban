@@ -65,14 +65,24 @@ padding:7rem 0 ;
     max-width: 30rem;
     max-height: 33rem;
     border: 1px solid red;
-    background-color: red;
+    background: url("./\(nicola\)/img/B1.jpg");
+    background-size: cover;
+    background-position: center;
     animation-name: example;
     animation-duration: 4s;
 }
 
 @keyframes example {
-    from {background-color: red;}
-    to {background-color: yellow;}
+    from {
+        background: url("./\(nicola\)/img/b2.jpg");
+        background-size: cover;
+        background-position: center;
+    }
+    to {
+        background: url("./\(nicola\)/img/b3.jpg");
+        background-size: cover;
+        background-position: center;
+    }
   }
 
 
