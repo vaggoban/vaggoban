@@ -6,7 +6,9 @@ const page = () => {
     <div>
       <div className="shop sm:grid sm:grid-cols-2 items-center bg-gray-200">
         <div className="left border py-12">
-          <div className="img_cigarette h-96 w-80 mx-auto"></div>
+          <div className="img_cigarette h-96 w-80 mx-auto">
+            <div className="h-full w-full thepic"></div>
+          </div>
         </div>
         <div className="right">
           <div className="text-4xl text-center px-3 py-2 sm:text-start">
