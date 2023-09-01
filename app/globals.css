@@ -61,7 +61,11 @@ padding:7rem 0 ;
 
 /* shop     */
  
-
+.img_cigarette{
+    background: url("./\(nicola\)/img/B1.jpg");
+    background-position: center;
+    background-size: cover;
+}
 
 
 
