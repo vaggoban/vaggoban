@@ -62,19 +62,3 @@ padding:7rem 0 ;
 /* shop     */
  
 
-.img_cigarette{
-    animation: 9s travel infinite linear;
-}
-@keyframes travel {
-    30%{
-        background: url("./\(nicola\)/img/B1.jpg");
-        background-position: center;
-        background-size: cover;
-    }
-    75%{
-        background: url("./\(nicola\)/img/b2.jpg");
-        background-position: center;
-        background-size: cover;
-    }
-}
-
