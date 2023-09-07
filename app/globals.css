@@ -1,11 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-/* 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&display=swap');
 .font_family{
     font-family: 'Libre Baskerville', serif;
-} */
-
+} 
+*{
+    font-family: 'Playfair Display', serif;
+}
 
 
