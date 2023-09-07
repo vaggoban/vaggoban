@@ -1,13 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-/* the font  */
+/* 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&display=swap');
-/* for the logo  */
-.thetext{
+.font_family{
     font-family: 'Libre Baskerville', serif;
-    color: rgb(26, 170, 170);
-}
+} */
 
 
 

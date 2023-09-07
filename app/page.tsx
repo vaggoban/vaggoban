@@ -1,9 +1,10 @@
 import React from 'react'
-import Valo from './(pages)/valo'
+import Logo from './(pages)/logo'
+
 export default function page() {
   return (
     <div>
-      <Valo/>
+       <Logo/>
     </div>
   )
 }
