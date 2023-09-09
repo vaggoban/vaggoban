@@ -8,5 +8,30 @@
 *{
     font-family: 'Playfair Display', serif;
 }
+ /* navigation bar   */
+label input:checked ~ .links{
+
+    display: block;
+
+}
+
+.navsm  .right  .links{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: 
+    linear-gradient(rgba(255, 92, 145, 0.2),rgba(255, 92, 145, 0.2))
+    ,url("./\(pages\)/img/b4.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+
+
+
+
 
 
