@@ -17,7 +17,7 @@ label input:checked ~ .links{
 
 .navsm  .right  .links{
     position: absolute;
-    top: 76%;
+    top: 69%;
     left: 50%;
     transform: translate(-50%,-50%);
     background: 
@@ -25,8 +25,8 @@ label input:checked ~ .links{
     ,url("./\(pages\)/img/b4.jpg");
     background-position: center;
     background-size: cover;
-    padding: 9rem;
-   background-attachment: fixed;
+   padding-left: 9rem 0;
+  
 
 }
 
