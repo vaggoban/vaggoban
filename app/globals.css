@@ -30,6 +30,42 @@ label input:checked ~ .links{
 
 }
 
+/* shop  */
+
+.image{
+  animation: slider 12s linear infinite ;
+
+}
+
+@keyframes slider{
+0%{
+background: 
+linear-gradient(rgba(12, 20, 40, 0.4),rgba(12, 20, 40, 0.4))
+,url("./\(pages\)/img/m (4).jpg");
+background-position: center;
+background-size: cover;
+}
+55%{
+background:linear-gradient(rgba(12, 20, 40, 0.4),rgba(12, 20, 40, 0.4))
+, url("./\(pages\)/img/m (3).jpg");
+background-position: center;
+background-size: cover;
+}
+100%{
+background:linear-gradient(rgba(12, 20, 40, 0.4),rgba(12, 20, 40, 0.4))
+, url("./\(pages\)/img/m (2).jpg");
+background-position: center;
+background-size: cover;
+}
+}
+
+
+
+
+
+
+
+
 
 
 
