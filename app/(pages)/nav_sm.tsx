@@ -19,11 +19,11 @@ const nav_sm = () => {
           <input type="checkbox" className='hidden' />
     
 
-          <div className="links hidden w-5/6 capitalize text-center py-12 text-sky-600">
-            <Link href="./shop"><div className="shop px-3 py-2 border w-28
-            mx-auto bg-gray-200 rounded ">shop</div></Link>
-            <Link href="./order_track"><div className="shop px-3 py-2 border w-28 mx-auto my-12  bg-gray-200 rounded ">order track</div></Link>
-            <Link href="./my_account"><div className="shop px-3 py-2 border w-28 mx-auto  bg-gray-200 rounded " >my account</div></Link>
+          <div className="links hidden w-5/6 uppercase text-center py-12  ">
+            <Link href="./shop"><div className="shop px-3 py-2  w-28
+            mx-auto bg-sky-400 tracking-wider rounded">shop</div></Link>
+            <Link href="./order_track"><div className="shop px-3 py-2  w-28 mx-auto my-12 bg-sky-400 tracking-wider rounded ">order track</div></Link>
+            <Link href="./my_account"><div className="shop px-3 py-2  w-28 mx-auto  bg-sky-400 tracking-wider rounded " >my account</div></Link>
           </div>
           
         </label>

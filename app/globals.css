@@ -21,7 +21,7 @@ label input:checked ~ .links{
     left: 50%;
     transform: translate(-50%,-50%);
     background: 
-    linear-gradient(rgba(255, 92, 145, 0.2),rgba(255, 92, 145, 0.2))
+    linear-gradient(rgba(12, 20, 40, 0.4),rgba(12, 20, 40, 0.4))
     ,url("./\(pages\)/img/b4.jpg");
     background-position: center;
     background-size: cover;
