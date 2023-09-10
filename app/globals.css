@@ -57,8 +57,17 @@ background-size: cover;
 
 
 
-
-
+.dollar{
+    position: relative;
+}
+.dollar .line{
+    border-top: 1px solid rgb(59, 17, 17);
+    width: 3rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
 
 
 
