@@ -59,7 +59,7 @@ const page = () => {
   <figure className='h-96 w-64 py-5 mx-auto'>
     <Image alt='smoke' className='h-full w-full rounded' src={three}></Image>
   </figure>
-  <div className="text-center mb-2 text-xl">Lucky Strike wild Box</div>
+  <div className="text-center mb-2 text-xl">Lucky Strike black box</div>
   <div className="text-center">
   <button className='uppercase border border-sky-600 px-3 py-1.5 rounded tracking-wider text-center m-2'>sale</button>
   </div>
