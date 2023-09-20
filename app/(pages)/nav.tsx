@@ -9,8 +9,8 @@ const nav = () => {
         <div className="nav border border-gray-200 p-2 mt-1 mx-1 flex flex-row  justify-center flex-wrap sm:gap-4 hidden sm:flex">
             <div className="links flex justify-center  flex-wrap gap-2 ">
                 <Link href="./shop"><div className="border capitalize px-8 py-2 hover:text-sky-400 rounded">shop</div></Link>
-                <Link href="./shop"><div className="border capitalize px-3 py-2 hover:text-sky-400 rounded">order track</div></Link>
-                <Link href="./shop"><div className="border capitalize px-3 py-2 hover:text-sky-400 rounded">my account</div></Link>
+                <Link href="./order_track"><div className="border capitalize px-3 py-2 hover:text-sky-400 rounded">order track</div></Link>
+                <Link href="./my_account"><div className="border capitalize px-3 py-2 hover:text-sky-400 rounded">my account</div></Link>
             </div>
             <div className="img">
                 <figure className='w-10 '>
